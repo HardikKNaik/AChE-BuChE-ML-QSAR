@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+
+title: "AChE-BuChE-ML-QSAR"
+
+message: "If you use this repository, please cite it."
+
+type: software
+
+authors:
+  - family-names: Naik
+    given-names: Hardik
+
+repository-code: "https://github.com/HardikkNaik/AChE-BuChE-ML-QSAR"
+
+version: "1.0.0"
+
+date-released: 2026-07-21
+
+license: MIT
